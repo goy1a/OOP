@@ -1,0 +1,9 @@
+#ifndef PUKIPUK3_EQUILATERALTRIANGLE_H
+#define PUKIPUK3_EQUILATERALTRIANGLE_H
+
+class Equilateral_triangle {
+
+
+};
+
+#endif //PUKIPUK3_EQUILATERALTRIANGLE_H
